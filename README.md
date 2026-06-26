@@ -5,6 +5,7 @@ Exercises and projects completed as part of the University of Helsinki's Full St
 ## 🚀 Course Progress
 
 - [x] **Part 0:** Fundamentals of Web Apps (HTML, CSS, HTTP requests, and Mermaid diagrams)
+      
 - [ ] **Part 1:** Introduction to React
 - [ ] **Part 2:** Communicating with server
 - [ ] **Part 3:** Programming a server with NodeJS and Express
